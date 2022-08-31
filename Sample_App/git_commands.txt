@@ -1,0 +1,16 @@
+Basic Git commands:
+
+Clone the repo :
+git clone url
+
+Code deployment:
+git pull
+git status
+git add .  ->adding all the files
+git add "project_folder"   ->adding the specific files
+git commit -m "commit msg if required"
+git push origin main
+
+Checkout the branch:
+git checkout branch_name
+
